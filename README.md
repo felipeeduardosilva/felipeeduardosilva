@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Felipe Eduardo
+Olá Eu sou o Felipe Eduardo👋👋
+
 - 👀 I’m interested in Trabalho ou estagio 
 - 🌱 I’m currently learning HTML, CSS, SCRIPT.
 - 📫 felipeeduardo10@hotmail.com
